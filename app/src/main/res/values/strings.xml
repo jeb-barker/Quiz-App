@@ -3,4 +3,5 @@
     <string name="hardCoded_string">Hello TJ!</string>
     <string name="name_hint">Type your Name</string>
     <string name="button_push">Submit</string>
+    <string name="color_hint">What is your favorite color?</string>
 </resources>
